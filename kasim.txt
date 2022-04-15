@@ -6,8 +6,9 @@ Hey There! Welcome to my portofolio site.<!-- laglaglaglaglaglaglaglaglaglaglagl
 <p>My name is Mohammed Kasim Hussain and my online alias is logicdictate(s) although, you can just call me kasim :)</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p>I have programming experience in python, java and js. my skills include: hard programming, a range of languages, eager to learn.  and my linkedin profile you can find here: <a href="https://www.linkedin.com/in/mohammed-hussain-519605237/"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Im a student and i have a big interest in cyber security and software<br><br><br>You can find my current projects <a href="https://github.com/logicdictates"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p>My social profiles here: <br> <a href="https://www.instagram.com/kasim.codes/">Instagram</a> <br> <a href="https://twitter.com/logicdictate">Twitter</a> and <br> <a href="https://logicdictate.com/">My code journey blog</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+
+Here is my Discord<!-- slightdelayhere-->, feel free to send a message at<!-- longlonglongcomment --><a href="https://discord.gg/txNEbhPE3h">Id#3514</a>.
 
 <p>Cheers!</p>
