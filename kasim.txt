@@ -1,6 +1,6 @@
 <span id="a">logicdictates@Kasim_Hussain</span>:<span id="b">~</span><span id="c">$</span> cd logicdictates/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">logicdictates@Kasim_Hussain</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->kasim.txt<br/><br/>
-my favourite thing: "<span id="k">cheese pizza</span>". <!-- sjkfhskjf -->
+my favourite thing is: "<span id="k">green tea :)</span>". <!-- sjkfhskjf -->
 
 Hey There! Welcome to my portofolio site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p></p>
 <p>My name is Mohammed Kasim Hussain and my online alias is logicdictate(s) although, you can just call me logic :)</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
