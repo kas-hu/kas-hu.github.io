@@ -1,5 +1,5 @@
-<span id="a">kashu@Kasim_Hussain</span>:<span id="b">~</span><span id="c">$</span> cd kashu/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">kashu@Kasim_Hussain</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->kasim.txt<br/><br/>
+<span id="a">kashu@mainframe</span>:<span id="b">~</span><span id="c">$</span> cd kashu/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">kashu@mainframe</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->kasim.txt<br/><br/>
 my favourite thing is: "<span id="k">blackcurrant squash and spaghetti! :)</span>". <!-- sjkfhskjf -->
 
 Welcome to my portofolio site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p></p>
