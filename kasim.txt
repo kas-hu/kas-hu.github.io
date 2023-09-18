@@ -9,6 +9,4 @@ Welcome to my portofolio site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p></
 //<p>email contact: kasim-huss@protonmail.com</a>.</p>\\
 
 
-/*Here is my Discord<!-- slightdelayhere-->, feel free to send a message at<!-- longlonglongcomment --><a href=""></a>.*\
-
 <p>Cheers!</p>
