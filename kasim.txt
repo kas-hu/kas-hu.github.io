@@ -4,11 +4,11 @@ my favourite thing is: "<span id="k">blackcurrant squash and spaghetti! :)</span
 
 Welcome to my portofolio site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p></p>
 <p>Hi. My name is Kasim Hussain.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p>I have programming experience in python, java and js. my skills include: hard programming, a range of languages, eager to learn.  and my linkedin profile you can find here: <a href="https://www.linkedin.com/in/mohammed-hussain-519605237/">portfolio</a>(just to know I am not sure if this still works yet I'm waiting for linkedin to verify my documents, hope thats ok!)</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Im a student and i have a big interest in cyber security and software<br><br><br>You can find my current projects in my<a href="https://github.com/kas-hu"> Github</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-//<p>social profile</a>.</p>\\
+<p>I have programming experience in python, java and js. my skills include: hard programming, a range of languages, eager to learn.  and my linkedin profile you can find here: <a href="https://www.linkedin.com/in/mohammed-hussain-519605237/">https://www.linkedin.com/in/mohammed-kasim-hussain-519605237/</a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>Im a student and i have a big interest in cyber security and ai<br><br><br>You can find my current projects in my<a href="https://github.com/kas-hu"> Github</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+//<p>email contact: kasim-huss@protonmail.com</a>.</p>\\
 
 
-Here is my Discord<!-- slightdelayhere-->, feel free to send a message at<!-- longlonglongcomment --><a href=""></a>.
+/*Here is my Discord<!-- slightdelayhere-->, feel free to send a message at<!-- longlonglongcomment --><a href=""></a>.*\
 
 <p>Cheers!</p>
